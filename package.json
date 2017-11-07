@@ -1,0 +1,22 @@
+{
+  "name": "node_todolist",
+  "version": "1.0.0",
+  "description": "Example API creation in Node with ExpressJS and Mongo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "POST-MAN"
+  ],
+  "author": "rufai mustopha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.0"
+  }
+}
